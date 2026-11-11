@@ -250,6 +250,6 @@ See [LICENSE](LICENSE) for the full text.
 
 <div align="center">
 
-Made with ☕ and a lot of `WebDriverWait` by **[Abdullah Amin](https://github.com/abdullahamin-ai)**
+Made with ☕ and a lot of `WebDriverWait` by **[Muhammad Amin](https://github.com/abdullahamin-ai)**
 
 </div>
